@@ -1,2 +1,2 @@
 # colab_notebooks
-Python Notebooks on Google Colab
+This repository contains some fun experiments and best use cases of Google Colab platform.
